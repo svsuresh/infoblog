@@ -13,7 +13,8 @@ website:
     contents:
       - href: myself.qmd
         text: About Me
-
+execute:
+  freeze: auto 
 format:
   html:
     theme: cosmo
