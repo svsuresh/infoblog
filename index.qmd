@@ -1,0 +1,9 @@
+---
+title: "waste"
+---
+
+This is a Quarto website.
+
+```{r}
+1 + 1
+```
